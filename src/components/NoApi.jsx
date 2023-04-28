@@ -7,6 +7,7 @@ const NoApi = () => {
         event.preventDefault();
         localStorage.setItem("apikey", apiKey);
         setApiKey("");
+        window.location.reload();
     };
 
     const handleChange = (event) => {
