@@ -35,7 +35,7 @@ const Footer = () => {
         Made with{" "} <span role="img" aria-label="love">❤️</span> by{" "} <a href="https://twitter.com/Danny_920825" target="_blank" rel="noopener noreferrer">Danny_920825</a>
       </p>
       <p style={parragraphStyle}>
-        Agradecimientos a{" "} <a href="https://twitter.com/sotoplatero" target="_blank" rel="noopener noreferrer">Soro Platero</a> por su proyecto que sirvió de inspiracion de{" "} <a href="https://emojiton.vercel.app" target="_blank" rel="noopener noreferrer">Emojiton</a>
+        Agradecimientos a{" "} <a href="https://twitter.com/sotoplatero" target="_blank" rel="noopener noreferrer">Soto Platero</a> por su proyecto que sirvió de inspiracion de{" "} <a href="https://emojiton.vercel.app" target="_blank" rel="noopener noreferrer">Emojiton</a>
       </p>
     </footer>
   );
